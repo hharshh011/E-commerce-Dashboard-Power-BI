@@ -1,0 +1,20 @@
+#Data Dictionary
+Sales Data
+
+user_id: Unique customer ID
+event_date: Event date
+Day_of_Week: Day of the week
+Channel: Channel used (App/Browser)
+event_type: Event type (view, cart, purchased)
+product_id: Product ID
+category: Category description
+brand: Brand name
+price: Product price
+State: User’s state
+User_Score: Customer segmentation
+Promotions Data
+
+Promotion Id: Promotion type
+Date: Date of promotion
+Discount: Discount percentage
+ProductId: Product ID
