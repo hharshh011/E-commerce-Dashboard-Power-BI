@@ -32,3 +32,5 @@ While building the dashboards, data cleaning is expected. Key questions to answe
 #### **Final Deliverables**
 1. A comprehensive **Power BI dashboard** covering the specified themes and business questions.
 2. A detailed document summarizing key insights derived from the analysis.
+
+Link : https://app.powerbi.com/view?r=eyJrIjoiNDI4YjIzNWItMjE3NC00OTM5LWI3NjMtOWRmNGM4YjE2NTM0IiwidCI6ImI3ODZjMzJlLTVhNGEtNDhlMi04NTE5LTMyODE4Y2ViNWQ3YSJ9
